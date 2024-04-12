@@ -1,0 +1,1 @@
+## Example of a simple hello world in GoLang
